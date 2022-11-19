@@ -1,8 +1,8 @@
-### Ref:
+## Ref:
 
 https://dev.to/dariansampare/setting-up-docker-typescript-node-hot-reloading-code-changes-in-a-running-container-2b2f
 
-###Step 1: Creating a server with TypeScript & Express
+## Step 1: Creating a server with TypeScript & Express
 
 Let's whip up a simple Express server with TypeScript and get it running locally (we'll dockerize it after!).
 
@@ -116,7 +116,7 @@ Great! Now let's dockerize this thing 🐳
 
 
 
-###Step 2: Docker Development & Production Step
+## Step 2: Docker Development & Production Step
 
 If you haven't installed Docker, do that now. I also recommend their desktop app, both of which can be found on their website.
 
